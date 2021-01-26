@@ -1,0 +1,66 @@
+.aluyg{
+    color: black;
+    font-size: 2rem;
+    padding-left: 50rem;
+}
+.sipaciklama{
+    color: black;
+    padding-left: 35rem;
+    
+
+}
+.solgun{
+    color:grey;
+}
+.gram{
+    margin-left: 30px;
+}
+.bttn{
+    background-color: blue;
+    size: 5rem;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+.ekle{
+    color:white;
+}
+.col1{
+    padding-left: 50px;
+    flex: 1 0 0%;
+}
+.icon{
+padding-left: 55rem;
+}
+.title{
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+}
+.ekyaz{
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+    padding: .5rem 1rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125)
+}
+.urunbody{
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.container{
+    max-width: 960px;
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
